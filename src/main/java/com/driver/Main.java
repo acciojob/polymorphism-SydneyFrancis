@@ -9,7 +9,6 @@ public class Main {
     System.out.println(b);
     int c = p.product(10,20,50);
     System.out.println(c);
-    System.out.println(a*b*c);
   }
   static class Product{
     public Product(){
