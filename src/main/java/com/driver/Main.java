@@ -7,7 +7,7 @@ public class Main {
     System.out.println(p.product(10.3,2.5));
     System.out.println(p.product(10,20,50));
   }
-  static class Product{
+  public static class Product{
     public Product(){
 
     }
